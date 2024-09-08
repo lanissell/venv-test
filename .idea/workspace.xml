@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d65e0a2-33f1-4979-a687-d68789364351" name="Changes" comment="" />
+    <list default="true" id="1d65e0a2-33f1-4979-a687-d68789364351" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +31,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/MyWindows/Projects/PY/venvtest/venv",
+    "git-widget-placeholder": "anaconda",
+    "last_opened_file_path": "C:/MyWindows/Projects/PY/venv-test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +42,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyWindows\Projects\PY\venv-test" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="venvtest" />
@@ -84,6 +92,9 @@
       <workItem from="1725780557515" duration="46000" />
       <workItem from="1725780621462" duration="5000" />
       <workItem from="1725794627874" duration="7000" />
+      <workItem from="1725795249859" duration="129000" />
+      <workItem from="1725795606783" duration="53000" />
+      <workItem from="1725796318608" duration="990000" />
     </task>
     <servers />
   </component>
